@@ -27,7 +27,7 @@
     "majal mirasol",
     "regine mirasol"
   ],
-  "license": "none",
+  "license": "MIT",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
